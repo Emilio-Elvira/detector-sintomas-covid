@@ -1,0 +1,9 @@
+# Instrucciones para configurar la base de datos
+
+1. Instalar mysql server
+    - sudo apt update
+    - sudo apt install mysql-server
+2. Entrar a mysql
+    - sudo mysql
+3. Crear una nueva base de datos
+    - CREATE DATABASE detector-sintomas;
